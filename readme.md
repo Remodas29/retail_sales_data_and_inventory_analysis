@@ -1,4 +1,5 @@
-Retail Sales & Inventory Intelligence System
+Retail Sales & Inventory Intelligence System 
+
 This repository contains the complete data analysis project for a retail company, built using Python (Pandas) and Power BI. The project analyzes 9 different datasets to provide insights into sales, inventory, staff performance, and customer behavior.
 
 Key Insights
@@ -36,11 +37,13 @@ Clone the Repository:
 Bash
 
 git clone https://github.com/Remodas29/retail_sales_data_and_inventory_analysis.git
+
 Install Dependencies:
 
 Bash
 
 pip install pandas matplotlib
+
 Run the Cleaning Script:
 
 This will generate all the cleaned_*.csv files.
@@ -48,6 +51,7 @@ This will generate all the cleaned_*.csv files.
 Bash
 
 python clean_data.py
+
 Run the Analysis Script:
 
 This will generate all the analysis_*.csv files and the plot_*.png images.
