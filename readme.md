@@ -1,4 +1,4 @@
-Retail Sales & Inventory Intelligence System 
+Retail Sales & Inventory Intelligence System using Python||SQLite DB||Power BI
 
 This repository contains the complete data analysis project for a retail company, built using Python (Pandas) and Power BI. The project analyzes 9 different datasets to provide insights into sales, inventory, staff performance, and customer behavior.
 
